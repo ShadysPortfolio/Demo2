@@ -1,0 +1,13 @@
+				@font-face {
+					font-family: 'cormorant';
+					src: url('/demo/wp-content/uploads/useanyfont/6547cormorant.woff2') format('woff2'),
+						url('/demo/wp-content/uploads/useanyfont/6547cormorant.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.cormorant{font-family: 'cormorant' !important;}
+
+						h1, h2, h3, h4, h5, h6, .entry-title, body.single-post .entry-title, body.page .entry-title, body.category .entry-title, .widget-title, .site-title, .site-description, body, p, blockquote, li, a, strong, b, em, .menu-main-menu-container li a, .menu-main-menu-container li span, #menu-main-menu li a, #menu-main-menu li span{
+					font-family: 'cormorant' !important;
+				}
+		

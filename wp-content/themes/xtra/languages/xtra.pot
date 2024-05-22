@@ -1,0 +1,2509 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Xtra v1.0\n"
+"POT-Creation-Date: 2018-02-18 17:46+0400\n"
+"PO-Revision-Date: 2018-02-12 17:51+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;_n;esc_html_e;esc_attr_e;_n_noop;esc_html__;"
+"esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:2
+msgid "Comments"
+msgstr ""
+
+#: functions.php:29 includes/options.php:632 includes/options.php:894
+msgid "Select Page"
+msgstr ""
+
+#: functions.php:46
+msgid "Visual Composer"
+msgstr ""
+
+#: functions.php:53
+msgid "Codevz Plus"
+msgstr ""
+
+#: functions.php:60 includes/options.php:623 includes/options.php:884
+msgid "Revolution Slider"
+msgstr ""
+
+#: functions.php:67
+msgid "Contact form 7"
+msgstr ""
+
+#: functions.php:136
+msgid "Theme Options"
+msgstr ""
+
+#: functions.php:142 includes/options.php:3138 includes/options.php:4181
+msgid "Help Center"
+msgstr ""
+
+#: functions.php:192 includes/options.php:5417
+msgid "Primary"
+msgstr ""
+
+#: functions.php:193 includes/options.php:5419
+msgid "One Page"
+msgstr ""
+
+#: functions.php:194 includes/options.php:5418
+msgid "Secondary"
+msgstr ""
+
+#: functions.php:195 includes/options.php:2783 includes/options.php:5420
+msgid "Footer"
+msgstr ""
+
+#: functions.php:196 includes/options.php:5421 includes/options.php:6084
+msgid "Mobile"
+msgstr ""
+
+#: functions.php:197 includes/options.php:5422
+msgid "Custom 1"
+msgstr ""
+
+#: functions.php:198 includes/options.php:5423
+msgid "Custom 2"
+msgstr ""
+
+#: functions.php:199 includes/options.php:5424
+msgid "Custom 3"
+msgstr ""
+
+#: functions.php:200 includes/options.php:5425
+msgid "Custom 4"
+msgstr ""
+
+#: functions.php:201 includes/options.php:5426
+msgid "Custom 5"
+msgstr ""
+
+#: functions.php:305
+msgid "Hide on Tablet ?"
+msgstr ""
+
+#: functions.php:311
+msgid "Hide on Mobile ?"
+msgstr ""
+
+#: functions.php:317
+msgid "Center align on Mobile ?"
+msgstr ""
+
+#: functions.php:667
+msgid "Add Social icons from Customize > Header > Social icons"
+msgstr ""
+
+#: functions.php:876
+msgid "Woocommerce not installed"
+msgstr ""
+
+#: functions.php:922
+msgid "WPML plugin not installed"
+msgstr ""
+
+#: functions.php:956
+#, php-format
+msgid "%d"
+msgstr ""
+
+#: functions.php:987
+msgid "Cart"
+msgstr ""
+
+#: functions.php:988
+msgid "Checkout"
+msgstr ""
+
+#: functions.php:1186
+msgid "Page not found!"
+msgstr ""
+
+#: functions.php:1270
+msgid "Related Posts ..."
+msgstr ""
+
+#: functions.php:1370 functions.php:1767
+msgid "Not found!"
+msgstr ""
+
+#: functions.php:1693 includes/options.php:3127
+msgid "Blog"
+msgstr ""
+
+#: functions.php:1732
+msgid "Server error, Try again ..."
+msgstr ""
+
+#: functions.php:1763
+msgid "Questions"
+msgstr ""
+
+#: functions.php:1773
+msgid "View all results"
+msgstr ""
+
+#: includes/options.php:21
+msgid "Simple"
+msgstr ""
+
+#: includes/options.php:21
+msgid "Advanced"
+msgstr ""
+
+#: includes/options.php:38
+msgid "Color Scheme"
+msgstr ""
+
+#: includes/options.php:442 includes/options.php:551
+#: includes/options.php:620 includes/options.php:657
+#: includes/options.php:675 includes/options.php:687
+#: includes/options.php:881 includes/options.php:918
+#: includes/options.php:944 includes/options.php:1459
+#: includes/options.php:4212 includes/options.php:4496
+#: includes/options.php:4544 includes/options.php:4597
+#: includes/options.php:5107 includes/options.php:5155
+#: includes/options.php:5436 includes/options.php:5945
+#: includes/options.php:6081 includes/options.php:6517
+msgid "Default"
+msgstr ""
+
+#: includes/options.php:524
+msgid "One Page Menu ?"
+msgstr ""
+
+#: includes/options.php:525
+msgid "One page menu instead primary menu"
+msgstr ""
+
+#: includes/options.php:535 includes/options.php:544
+msgid "Page Settings"
+msgstr ""
+
+#: includes/options.php:549 includes/options.php:1129
+#: includes/options.php:1134 includes/options.php:1731
+#: includes/options.php:4205 includes/options.php:4210
+#: includes/options.php:4494 includes/options.php:4542
+#: includes/options.php:4595 includes/options.php:5105
+#: includes/options.php:5153
+msgid "Layout"
+msgstr ""
+
+#: includes/options.php:552
+msgid "Blank Page"
+msgstr ""
+
+#: includes/options.php:553 includes/options.php:1138
+#: includes/options.php:4214 includes/options.php:4498
+#: includes/options.php:4546 includes/options.php:4599
+#: includes/options.php:5109 includes/options.php:5157
+msgid "Blank Page ( No Padding )"
+msgstr ""
+
+#: includes/options.php:554 includes/options.php:1139
+#: includes/options.php:4215 includes/options.php:4499
+#: includes/options.php:4547 includes/options.php:4600
+#: includes/options.php:5110 includes/options.php:5158
+msgid "Right sidebar"
+msgstr ""
+
+#: includes/options.php:555 includes/options.php:1140
+#: includes/options.php:4216 includes/options.php:4500
+#: includes/options.php:4548 includes/options.php:4601
+#: includes/options.php:5111 includes/options.php:5159
+msgid "Left sidebar"
+msgstr ""
+
+#: includes/options.php:556 includes/options.php:1141
+#: includes/options.php:4217 includes/options.php:4501
+#: includes/options.php:4549 includes/options.php:4602
+#: includes/options.php:5112 includes/options.php:5160
+msgid "Both sidebars"
+msgstr ""
+
+#: includes/options.php:557 includes/options.php:1142
+#: includes/options.php:4218 includes/options.php:4502
+#: includes/options.php:4550 includes/options.php:4603
+#: includes/options.php:5113 includes/options.php:5161
+msgid "Both sidebars ( Small )"
+msgstr ""
+
+#: includes/options.php:558 includes/options.php:1143
+#: includes/options.php:4219 includes/options.php:4503
+#: includes/options.php:4551 includes/options.php:4604
+#: includes/options.php:5114 includes/options.php:5162
+msgid "Both sidebars ( Right )"
+msgstr ""
+
+#: includes/options.php:559 includes/options.php:1144
+#: includes/options.php:4220 includes/options.php:4504
+#: includes/options.php:4552 includes/options.php:4605
+#: includes/options.php:5115 includes/options.php:5163
+msgid "Both sidebars ( Right - Small )"
+msgstr ""
+
+#: includes/options.php:560 includes/options.php:1145
+#: includes/options.php:4221 includes/options.php:4505
+#: includes/options.php:4553 includes/options.php:4606
+#: includes/options.php:5116 includes/options.php:5164
+msgid "Both sidebars ( Left )"
+msgstr ""
+
+#: includes/options.php:561 includes/options.php:1146
+#: includes/options.php:4222 includes/options.php:4506
+#: includes/options.php:4554 includes/options.php:4607
+#: includes/options.php:5117 includes/options.php:5165
+msgid "Both sidebars ( Left - Small )"
+msgstr ""
+
+#: includes/options.php:568 includes/options.php:1154
+msgid "Sidebar"
+msgstr ""
+
+#: includes/options.php:576 includes/options.php:1162
+#: includes/options.php:4237 includes/options.php:4521
+#: includes/options.php:4569 includes/options.php:4622
+#: includes/options.php:5132 includes/options.php:5180
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: includes/options.php:585
+msgid "Hide Header ?"
+msgstr ""
+
+#: includes/options.php:590
+msgid "Hide Footer ?"
+msgstr ""
+
+#: includes/options.php:595
+msgid "Page Background"
+msgstr ""
+
+#: includes/options.php:613 includes/options.php:622
+#: includes/options.php:655 includes/options.php:883
+#: includes/options.php:916 includes/options.php:2489
+#: includes/options.php:4246 includes/options.php:4666
+msgid "Title & Breadcrumbs"
+msgstr ""
+
+#: includes/options.php:618 includes/options.php:879
+msgid "Title Type"
+msgstr ""
+
+#: includes/options.php:621 includes/options.php:882
+msgid "None"
+msgstr ""
+
+#: includes/options.php:624 includes/options.php:640
+#: includes/options.php:885 includes/options.php:901
+#: includes/options.php:5375
+msgid "Custom Code"
+msgstr ""
+
+#: includes/options.php:625 includes/options.php:886
+#: includes/options.php:5376
+msgid "Custom Page"
+msgstr ""
+
+#: includes/options.php:634 includes/options.php:5701
+#: includes/options.php:5888
+msgid "Edit"
+msgstr ""
+
+#: includes/options.php:646 includes/options.php:907
+msgid "Reolution Slider"
+msgstr ""
+
+#: includes/options.php:649 includes/options.php:881
+#: includes/options.php:910 includes/options.php:918
+#: includes/options.php:1136 includes/options.php:1291
+#: includes/options.php:2051 includes/options.php:2268
+#: includes/options.php:2288 includes/options.php:2800
+#: includes/options.php:5378 includes/options.php:5416
+#: includes/options.php:5699 includes/options.php:5886
+#: includes/options.php:6092
+msgid "Select"
+msgstr ""
+
+#: includes/options.php:658 includes/options.php:919
+#: includes/options.php:1027
+msgid "Title ( in Content )"
+msgstr ""
+
+#: includes/options.php:659 includes/options.php:920
+msgid "Title ( Top of Content )"
+msgstr ""
+
+#: includes/options.php:660 includes/options.php:921
+msgid "Title &gt; Breadcrumbs"
+msgstr ""
+
+#: includes/options.php:661 includes/options.php:922
+msgid "Breadcrumbs &gt; Title"
+msgstr ""
+
+#: includes/options.php:662 includes/options.php:923
+msgid "Title & Breadcrumbs ( Left & Right )"
+msgstr ""
+
+#: includes/options.php:663 includes/options.php:924
+msgid "Breadcrumbs"
+msgstr ""
+
+#: includes/options.php:664 includes/options.php:925
+msgid "Breadcrumbs & Title ( in Content )"
+msgstr ""
+
+#: includes/options.php:665 includes/options.php:926
+msgid "Breadcrumbs ( Right )"
+msgstr ""
+
+#: includes/options.php:673 includes/options.php:934
+msgid "Title & Breadcrumbs Center ?"
+msgstr ""
+
+#: includes/options.php:676
+msgid "No"
+msgstr ""
+
+#: includes/options.php:677
+msgid "Yes"
+msgstr ""
+
+#: includes/options.php:685 includes/options.php:942
+msgid "Header Position"
+msgstr ""
+
+#: includes/options.php:688 includes/options.php:945
+msgid "Top"
+msgstr ""
+
+#: includes/options.php:689
+msgid "Header after title ( Slider )"
+msgstr ""
+
+#: includes/options.php:690 includes/options.php:947
+msgid "Header Overlay ( Only Desktop )"
+msgstr ""
+
+#: includes/options.php:691 includes/options.php:948
+msgid "Header Overlay ( Desktop + Tablet )"
+msgstr ""
+
+#: includes/options.php:692 includes/options.php:949
+msgid "Header Overlay ( All Devices )"
+msgstr ""
+
+#: includes/options.php:701 includes/options.php:964
+#: includes/options.php:2826 includes/options.php:5671
+#: includes/options.php:5707 includes/options.php:6116
+msgid "Container"
+msgstr ""
+
+#: includes/options.php:720 includes/options.php:985
+msgid "Inner Row"
+msgstr ""
+
+#: includes/options.php:739 includes/options.php:1006
+msgid "Page Title"
+msgstr ""
+
+#: includes/options.php:758 includes/options.php:1048
+msgid "Breadcrumbs Typography"
+msgstr ""
+
+#: includes/options.php:777
+msgid "Breadcrumbs Container"
+msgstr ""
+
+#: includes/options.php:796
+msgid "Breadcrumbs Inner Container"
+msgstr ""
+
+#: includes/options.php:815
+msgid "Extra Container"
+msgstr ""
+
+#: includes/options.php:857
+msgid "Separator"
+msgstr ""
+
+#: includes/options.php:870
+msgid "Home icon ?"
+msgstr ""
+
+#: includes/options.php:946
+msgid "Header after title"
+msgstr ""
+
+#: includes/options.php:956
+msgid "Background Parallax"
+msgstr ""
+
+#: includes/options.php:957
+msgid ""
+"This option is related to Container background, Best value is between -5 "
+"to 5"
+msgstr ""
+
+#: includes/options.php:1069
+msgid "Breadcrumbs Inner"
+msgstr ""
+
+#: includes/options.php:1090
+msgid "Overall row container"
+msgstr ""
+
+#: includes/options.php:1124
+msgid "General Settings"
+msgstr ""
+
+#: includes/options.php:1137 includes/options.php:4213
+#: includes/options.php:4497 includes/options.php:4545
+#: includes/options.php:4598 includes/options.php:5108
+#: includes/options.php:5156
+msgid "Without sidebar"
+msgstr ""
+
+#: includes/options.php:1170 includes/options.php:1171
+msgid "Add Sidebar"
+msgstr ""
+
+#: includes/options.php:1172
+msgid "Save and refresh is required for this option"
+msgstr ""
+
+#: includes/options.php:1177 includes/options.php:2227
+#: includes/options.php:2761 includes/options.php:3663
+#: includes/options.php:4950 includes/options.php:5457
+#: includes/options.php:5814 includes/options.php:5847
+msgid "Title"
+msgstr ""
+
+#: includes/options.php:1185
+msgid "Sticky Sidebars ?"
+msgstr ""
+
+#: includes/options.php:1186
+msgid "Sticky all sidebars and content layouts"
+msgstr ""
+
+#: includes/options.php:1193 includes/options.php:1198
+msgid "Responsive"
+msgstr ""
+
+#: includes/options.php:1204
+msgid "Medium device breakpoint"
+msgstr ""
+
+#: includes/options.php:1213
+msgid "Medium device custom CSS"
+msgstr ""
+
+#: includes/options.php:1214 includes/options.php:1233
+#: includes/options.php:1613
+msgid "Insert codes without style tag"
+msgstr ""
+
+#: includes/options.php:1223
+msgid "Small device breakpoint"
+msgstr ""
+
+#: includes/options.php:1232
+msgid "Small device custom CSS"
+msgstr ""
+
+#: includes/options.php:1244 includes/options.php:1249
+msgid "Loading"
+msgstr ""
+
+#: includes/options.php:1254
+msgid "Show loadnig by click on links"
+msgstr ""
+
+#: includes/options.php:1261
+msgid "Loading Background"
+msgstr ""
+
+#: includes/options.php:1282 includes/options.php:4930
+#: includes/options.php:5369 includes/options.php:5483
+msgid "Image"
+msgstr ""
+
+#: includes/options.php:1289
+msgid "Image Animation"
+msgstr ""
+
+#: includes/options.php:1299
+msgid "Custom time ( ms )"
+msgstr ""
+
+#: includes/options.php:1300
+msgid "Hide loading after this time"
+msgstr ""
+
+#: includes/options.php:1310
+msgid "Maintenance Mode"
+msgstr ""
+
+#: includes/options.php:1315
+msgid "Maintenance mode"
+msgstr ""
+
+#: includes/options.php:1316
+msgid ""
+"If you set this option, then all of your visitors will redirect to this "
+"page"
+msgstr ""
+
+#: includes/options.php:1325 includes/options.php:1330
+msgid "Page 404"
+msgstr ""
+
+#: includes/options.php:1337
+msgid "Default 404 message"
+msgstr ""
+
+#: includes/options.php:1345
+msgid "SEO Settings"
+msgstr ""
+
+#: includes/options.php:1350
+msgid "SEO Description"
+msgstr ""
+
+#: includes/options.php:1351
+msgid ""
+"If you fill out this field, og:meta tags automatically will add to your "
+"site"
+msgstr ""
+
+#: includes/options.php:1358
+msgid "SEO Keywords"
+msgstr ""
+
+#: includes/options.php:1365
+msgid "Lazyload"
+msgstr ""
+
+#: includes/options.php:1366
+msgid "Speed up your site by loading images on scrolling"
+msgstr ""
+
+#: includes/options.php:1372
+msgid "Remove query args (JS-CSS)"
+msgstr ""
+
+#: includes/options.php:1373
+msgid ""
+"Resources with '?' in the URL are not cached by some proxy caching "
+"servers. You can enable this option for fixing it."
+msgstr ""
+
+#: includes/options.php:1381
+msgid "AJAX Mode"
+msgstr ""
+
+#: includes/options.php:1386
+msgid "Ajax"
+msgstr ""
+
+#: includes/options.php:1387
+msgid ""
+"Ajax mode will loads pages without reloading browser and uses fewer "
+"server resources"
+msgstr ""
+
+#: includes/options.php:1392
+msgid "Ajax Spinner"
+msgstr ""
+
+#: includes/options.php:1415
+msgid "Popup, Modal Box"
+msgstr ""
+
+#: includes/options.php:1420
+msgid ""
+"Select the page that you created with popup element, then you can launch "
+"it from any links and buttons with your popup unique ID, e.g. #popup_id"
+msgstr ""
+
+#: includes/options.php:1425
+msgid "Popup Page"
+msgstr ""
+
+#: includes/options.php:1433
+msgid "Nicescroll"
+msgstr ""
+
+#: includes/options.php:1438
+msgid "NiceScroll"
+msgstr ""
+
+#: includes/options.php:1444
+msgid "CodevzPlus plugin is required for using NiceScroll"
+msgstr ""
+
+#: includes/options.php:1451
+msgid "NiceScroll Config"
+msgstr ""
+
+#: includes/options.php:1452
+msgid "Parameters"
+msgstr ""
+
+#: includes/options.php:1457
+msgid "Scroll Position"
+msgstr ""
+
+#: includes/options.php:1460 includes/options.php:5664
+#: includes/options.php:6049
+msgid "Right"
+msgstr ""
+
+#: includes/options.php:1461 includes/options.php:5663
+#: includes/options.php:6048
+msgid "Left"
+msgstr ""
+
+#: includes/options.php:1467
+msgid "Cursor Color"
+msgstr ""
+
+#: includes/options.php:1472
+msgid "Rail Background"
+msgstr ""
+
+#: includes/options.php:1477
+msgid "Cursor Opacity Inactive"
+msgstr ""
+
+#: includes/options.php:1495
+msgid "Cursor Opacity Active"
+msgstr ""
+
+#: includes/options.php:1513
+msgid "Cursor Width"
+msgstr ""
+
+#: includes/options.php:1520
+msgid "Cursor Border Radius"
+msgstr ""
+
+#: includes/options.php:1527
+msgid "Scrolling Speed"
+msgstr ""
+
+#: includes/options.php:1533
+msgid "Scrolling Speed Mouse Wheel"
+msgstr ""
+
+#: includes/options.php:1546
+msgid "WP-Login Page"
+msgstr ""
+
+#: includes/options.php:1552 includes/options.php:2119
+#: includes/options.php:2124 includes/options.php:2130
+#: includes/options.php:5361
+msgid "Logo"
+msgstr ""
+
+#: includes/options.php:1558 includes/options.php:1711
+#: includes/options.php:2501
+msgid "Body"
+msgstr ""
+
+#: includes/options.php:1566 includes/options.php:2681
+msgid "Links"
+msgstr ""
+
+#: includes/options.php:1574
+msgid "Form Container"
+msgstr ""
+
+#: includes/options.php:1582
+msgid "Form Inputs"
+msgstr ""
+
+#: includes/options.php:1590
+msgid "Form Button"
+msgstr ""
+
+#: includes/options.php:1600
+msgid "Custom codes"
+msgstr ""
+
+#: includes/options.php:1612
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/options.php:1622
+msgid "Custom JS"
+msgstr ""
+
+#: includes/options.php:1623
+msgid "Insert codes without script tag"
+msgstr ""
+
+#: includes/options.php:1631
+msgid "Before closing /head"
+msgstr ""
+
+#: includes/options.php:1636
+msgid "Before closing /body"
+msgstr ""
+
+#: includes/options.php:1643
+msgid "More Settings"
+msgstr ""
+
+#: includes/options.php:1648
+msgid "Disable VC templates"
+msgstr ""
+
+#: includes/options.php:1649
+msgid ""
+"If you do not need templates in page builder, turn this option ON. This "
+"will increase your back-end load speed."
+msgstr ""
+
+#: includes/options.php:1661
+msgid "General Styles"
+msgstr ""
+
+#: includes/options.php:1667
+msgid "Primary Color"
+msgstr ""
+
+#: includes/options.php:1668
+msgid ""
+"Warning: All old Primary Colors in the options and pages content will "
+"change."
+msgstr ""
+
+#: includes/options.php:1674
+msgid "Secondary Color"
+msgstr ""
+
+#: includes/options.php:1675
+msgid ""
+"Warning: All old Secondary Colors in the options and pages content will "
+"change."
+msgstr ""
+
+#: includes/options.php:1681
+msgid "Site Width"
+msgstr ""
+
+#: includes/options.php:1689
+msgid "Dark version ?"
+msgstr ""
+
+#: includes/options.php:1694
+msgid "Boxed ?"
+msgstr ""
+
+#: includes/options.php:1700
+msgid "RTL ?"
+msgstr ""
+
+#: includes/options.php:1706 includes/options.php:3184
+#: includes/options.php:3642 includes/options.php:4679
+#: includes/options.php:6109
+msgid "Styles"
+msgstr ""
+
+#: includes/options.php:1751
+msgid "Buttons"
+msgstr ""
+
+#: includes/options.php:1771
+msgid "Buttons :Hover"
+msgstr ""
+
+#: includes/options.php:1791
+msgid "Content box"
+msgstr ""
+
+#: includes/options.php:1811
+msgid "Content box headlines"
+msgstr ""
+
+#: includes/options.php:1831
+msgid "Content box links"
+msgstr ""
+
+#: includes/options.php:1851
+msgid "Content box links :Hover"
+msgstr ""
+
+#: includes/options.php:1871
+msgid "Primary Sidebar Area"
+msgstr ""
+
+#: includes/options.php:1891
+msgid "Secondary Sidebar Area"
+msgstr ""
+
+#: includes/options.php:1911 includes/options.php:2868
+msgid "Widgets"
+msgstr ""
+
+#: includes/options.php:1931 includes/options.php:2889
+msgid "Widgets Headlines"
+msgstr ""
+
+#: includes/options.php:1951
+msgid "Widgets links"
+msgstr ""
+
+#: includes/options.php:1971
+msgid "Widgets links :Hover"
+msgstr ""
+
+#: includes/options.php:1991 includes/options.php:4724
+msgid "Images"
+msgstr ""
+
+#: includes/options.php:2011
+msgid "Input, Textarea"
+msgstr ""
+
+#: includes/options.php:2031
+msgid "Input on focus"
+msgstr ""
+
+#: includes/options.php:2071
+msgid "Select Dropdown"
+msgstr ""
+
+#: includes/options.php:2091
+msgid "Lightbox Backgroud"
+msgstr ""
+
+#: includes/options.php:2114 includes/options.php:2382
+#: includes/options.php:6025
+msgid "Header"
+msgstr ""
+
+#: includes/options.php:2150
+msgid "Logo 2 ( Alternative )"
+msgstr ""
+
+#: includes/options.php:2155 includes/options.php:5362
+msgid "Logo Alternative"
+msgstr ""
+
+#: includes/options.php:2161
+msgid "Logo 2"
+msgstr ""
+
+#: includes/options.php:2181
+msgid "Logo Tooltip on Hover"
+msgstr ""
+
+#: includes/options.php:2186
+msgid "Tooltip"
+msgstr ""
+
+#: includes/options.php:2192
+msgid "Logo Tooltip"
+msgstr ""
+
+#: includes/options.php:2215 includes/options.php:2220
+#: includes/options.php:2335 includes/options.php:5364
+msgid "Social Icons"
+msgstr ""
+
+#: includes/options.php:2221 includes/options.php:2222
+#: includes/options.php:2723 includes/options.php:2756
+#: includes/options.php:4463 includes/options.php:5350
+#: includes/options.php:5351
+msgid "Add"
+msgstr ""
+
+#: includes/options.php:2232 includes/options.php:5451
+#: includes/options.php:5463 includes/options.php:5530
+#: includes/options.php:5536 includes/options.php:5627
+#: includes/options.php:5681 includes/options.php:5687
+#: includes/options.php:5717 includes/options.php:5723
+#: includes/options.php:5756 includes/options.php:5762
+msgid "Icon"
+msgstr ""
+
+#: includes/options.php:2238 includes/options.php:5499
+#: includes/options.php:5514 includes/options.php:5820
+#: includes/options.php:5928
+msgid "Link"
+msgstr ""
+
+#: includes/options.php:2253
+msgid "Hover FX"
+msgstr ""
+
+#: includes/options.php:2255
+msgid "ZoomIn"
+msgstr ""
+
+#: includes/options.php:2256
+msgid "ZoomOut"
+msgstr ""
+
+#: includes/options.php:2257
+msgid "Bottom to Top"
+msgstr ""
+
+#: includes/options.php:2258
+msgid "Top to Bottom"
+msgstr ""
+
+#: includes/options.php:2259
+msgid "Left to Right"
+msgstr ""
+
+#: includes/options.php:2260
+msgid "Right to Left"
+msgstr ""
+
+#: includes/options.php:2261
+msgid "Rotate"
+msgstr ""
+
+#: includes/options.php:2262
+msgid "Infinite Shake"
+msgstr ""
+
+#: includes/options.php:2263
+msgid "Infinite Wink"
+msgstr ""
+
+#: includes/options.php:2264
+msgid "Quick Bob"
+msgstr ""
+
+#: includes/options.php:2265
+msgid "Flip Horizontal"
+msgstr ""
+
+#: includes/options.php:2266
+msgid "Flip Vertical"
+msgstr ""
+
+#: includes/options.php:2281
+msgid "Color Mode"
+msgstr ""
+
+#: includes/options.php:2283
+msgid "Original colors"
+msgstr ""
+
+#: includes/options.php:2284
+msgid "Original colors on :Hover"
+msgstr ""
+
+#: includes/options.php:2285
+msgid "Original background"
+msgstr ""
+
+#: includes/options.php:2286
+msgid "Original background on :Hover"
+msgstr ""
+
+#: includes/options.php:2301
+msgid "Inline titles ?"
+msgstr ""
+
+#: includes/options.php:2315
+msgid "Social Container"
+msgstr ""
+
+#: includes/options.php:2355
+msgid "Social :Hover"
+msgstr ""
+
+#: includes/options.php:2377 includes/options.php:6024
+msgid "Top of Header"
+msgstr ""
+
+#: includes/options.php:2387 includes/options.php:6026
+msgid "Bottom of Header"
+msgstr ""
+
+#: includes/options.php:2392 includes/options.php:6021
+msgid "Sticky Header"
+msgstr ""
+
+#: includes/options.php:2397
+msgid "Mobile,Tablet Header"
+msgstr ""
+
+#: includes/options.php:2402
+msgid "Fixed Side"
+msgstr ""
+
+#: includes/options.php:2407 includes/options.php:2958
+msgid "More"
+msgstr ""
+
+#: includes/options.php:2412
+msgid "Overall Header Container"
+msgstr ""
+
+#: includes/options.php:2432 includes/options.php:2442
+msgid "Extra header panel"
+msgstr ""
+
+#: includes/options.php:2463
+msgid "Handle"
+msgstr ""
+
+#: includes/options.php:2495
+msgid "Typography"
+msgstr ""
+
+#: includes/options.php:2521
+msgid "All Headlines"
+msgstr ""
+
+#: includes/options.php:2541
+msgid "H1"
+msgstr ""
+
+#: includes/options.php:2561
+msgid "H2"
+msgstr ""
+
+#: includes/options.php:2581
+msgid "H3"
+msgstr ""
+
+#: includes/options.php:2601
+msgid "H4"
+msgstr ""
+
+#: includes/options.php:2621
+msgid "H5"
+msgstr ""
+
+#: includes/options.php:2641
+msgid "H6"
+msgstr ""
+
+#: includes/options.php:2661
+msgid "Paragraphs"
+msgstr ""
+
+#: includes/options.php:2701
+msgid "Links :Hover"
+msgstr ""
+
+#: includes/options.php:2722
+msgid "Google Fonts for WP Editor"
+msgstr ""
+
+#: includes/options.php:2728
+msgid "Font Family"
+msgstr ""
+
+#: includes/options.php:2738
+msgid "Custom icons pack"
+msgstr ""
+
+#: includes/options.php:2743
+msgid "Allow WordPress to upload zip files"
+msgstr ""
+
+#: includes/options.php:2749
+msgid "If you can not upload zip file, once save and refresh this page"
+msgstr ""
+
+#: includes/options.php:2755
+msgid "Add icons pack"
+msgstr ""
+
+#: includes/options.php:2766
+msgid "Fontelo zip file"
+msgstr ""
+
+#: includes/options.php:2788
+msgid "Top of Footer"
+msgstr ""
+
+#: includes/options.php:2793
+msgid "Footer Widgets"
+msgstr ""
+
+#: includes/options.php:2798
+msgid "Widgets layout"
+msgstr ""
+
+#: includes/options.php:2847
+msgid "Row inner"
+msgstr ""
+
+#: includes/options.php:2910
+msgid "Widgets Links"
+msgstr ""
+
+#: includes/options.php:2931
+msgid "Widgets Links :Hover"
+msgstr ""
+
+#: includes/options.php:2953
+msgid "Bottom of Footer"
+msgstr ""
+
+#: includes/options.php:2963
+msgid "Overall Footer"
+msgstr ""
+
+#: includes/options.php:2983
+msgid "Fixed footer under body ?"
+msgstr ""
+
+#: includes/options.php:2984
+msgid ""
+"Body Background color is required for fixed footer. Go to Customize > "
+"General Styles > Body"
+msgstr ""
+
+#: includes/options.php:2989
+msgid "Back to Top button"
+msgstr ""
+
+#: includes/options.php:2994 includes/options.php:3001
+msgid "Back To Top"
+msgstr ""
+
+#: includes/options.php:3021
+msgid "Back To Top :Hover"
+msgstr ""
+
+#: includes/options.php:3041
+msgid "Quick contact form button"
+msgstr ""
+
+#: includes/options.php:3046
+msgid "Contact form"
+msgstr ""
+
+#: includes/options.php:3052
+msgid "Contact form container"
+msgstr ""
+
+#: includes/options.php:3073
+msgid "Contact Icon"
+msgstr ""
+
+#: includes/options.php:3081
+msgid "Contact form icon"
+msgstr ""
+
+#: includes/options.php:3102
+msgid "Contact form icon :Hover"
+msgstr ""
+
+#: includes/options.php:3132
+msgid "Blog Settings"
+msgstr ""
+
+#: includes/options.php:3137 includes/options.php:4175
+#: includes/options.php:4180
+msgid "Template"
+msgstr ""
+
+#: includes/options.php:3138 includes/options.php:4181
+msgid "For more information please go to"
+msgstr ""
+
+#: includes/options.php:3144
+msgid "Default Template Style"
+msgstr ""
+
+#: includes/options.php:3146
+msgid "Medium Image"
+msgstr ""
+
+#: includes/options.php:3147
+msgid "Medium Image ( Right )"
+msgstr ""
+
+#: includes/options.php:3148
+msgid "Full Width Image"
+msgstr ""
+
+#: includes/options.php:3149
+msgid "Grid 2 Columns"
+msgstr ""
+
+#: includes/options.php:3150
+msgid "Grid 3 Columns"
+msgstr ""
+
+#: includes/options.php:3157 includes/options.php:4198
+msgid "Posts Per Page"
+msgstr ""
+
+#: includes/options.php:3163
+msgid "Excerpt lenght"
+msgstr ""
+
+#: includes/options.php:3170 includes/options.php:3435
+msgid "Read more"
+msgstr ""
+
+#: includes/options.php:3179
+msgid "Blog Styles"
+msgstr ""
+
+#: includes/options.php:3189
+msgid "Sticky Post"
+msgstr ""
+
+#: includes/options.php:3209
+msgid "Overall Each Post"
+msgstr ""
+
+#: includes/options.php:3229
+msgid "Overall Each Post :Hover"
+msgstr ""
+
+#: includes/options.php:3249
+msgid "Post image"
+msgstr ""
+
+#: includes/options.php:3269
+msgid "Post image :Hover"
+msgstr ""
+
+#: includes/options.php:3289
+msgid "Post Title"
+msgstr ""
+
+#: includes/options.php:3309
+msgid "Post Title :Hover"
+msgstr ""
+
+#: includes/options.php:3329
+msgid "Post Meta Overall"
+msgstr ""
+
+#: includes/options.php:3349 includes/options.php:3703
+msgid "Post Avatar"
+msgstr ""
+
+#: includes/options.php:3369 includes/options.php:3723
+msgid "Post Author"
+msgstr ""
+
+#: includes/options.php:3389 includes/options.php:3743
+msgid "Post Date"
+msgstr ""
+
+#: includes/options.php:3409
+msgid "Post Excerpt"
+msgstr ""
+
+#: includes/options.php:3430
+msgid "Read More Button"
+msgstr ""
+
+#: includes/options.php:3455
+msgid "Read more :Hover"
+msgstr ""
+
+#: includes/options.php:3475 includes/options.php:3481
+msgid "Read more icon"
+msgstr ""
+
+#: includes/options.php:3501
+msgid "Read more :Hover icon"
+msgstr ""
+
+#: includes/options.php:3521 includes/options.php:3526
+msgid "Paginations"
+msgstr ""
+
+#: includes/options.php:3546
+msgid "Paginations :Hover, active"
+msgstr ""
+
+#: includes/options.php:3569
+msgid "Single Settings"
+msgstr ""
+
+#: includes/options.php:3574
+msgid "Single posts features"
+msgstr ""
+
+#: includes/options.php:3576 includes/options.php:4261
+msgid "Featured image"
+msgstr ""
+
+#: includes/options.php:3577 includes/options.php:4262
+msgid "Date"
+msgstr ""
+
+#: includes/options.php:3578
+msgid "Author avatar & name"
+msgstr ""
+
+#: includes/options.php:3579 includes/options.php:4263
+msgid "Categories"
+msgstr ""
+
+#: includes/options.php:3580 includes/options.php:4264
+msgid "Tags"
+msgstr ""
+
+#: includes/options.php:3581 includes/options.php:4265
+msgid "Author Box"
+msgstr ""
+
+#: includes/options.php:3582 includes/options.php:4266
+msgid "Next Prev posts"
+msgstr ""
+
+#: includes/options.php:3589
+msgid "Prev Post Sur title"
+msgstr ""
+
+#: includes/options.php:3596
+msgid "Next Post Sur title"
+msgstr ""
+
+#: includes/options.php:3603
+msgid "Related title"
+msgstr ""
+
+#: includes/options.php:3610 includes/options.php:4280
+msgid "Related columns"
+msgstr ""
+
+#: includes/options.php:3621 includes/options.php:4291
+msgid "Related count"
+msgstr ""
+
+#: includes/options.php:3628
+msgid "Comments title"
+msgstr ""
+
+#: includes/options.php:3637
+msgid "Single Styles"
+msgstr ""
+
+#: includes/options.php:3647
+msgid "Content Container"
+msgstr ""
+
+#: includes/options.php:3683
+msgid "Featured Image"
+msgstr ""
+
+#: includes/options.php:3763
+msgid "Post Tags, Categories"
+msgstr ""
+
+#: includes/options.php:3783
+msgid "Tags, Cats :Hover"
+msgstr ""
+
+#: includes/options.php:3803
+msgid "Next / Prev posts Container"
+msgstr ""
+
+#: includes/options.php:3823
+msgid "Next / Prev posts icons"
+msgstr ""
+
+#: includes/options.php:3843 includes/options.php:3863
+msgid "Next / Prev icons :Hover"
+msgstr ""
+
+#: includes/options.php:3883
+msgid "Next / Prev Post Titles"
+msgstr ""
+
+#: includes/options.php:3903
+msgid "Next / Prev Titles :Hover"
+msgstr ""
+
+#: includes/options.php:3923
+msgid "Next / Prev Sur Titles"
+msgstr ""
+
+#: includes/options.php:3944
+msgid "Single More"
+msgstr ""
+
+#: includes/options.php:3949
+msgid "Related Posts Container"
+msgstr ""
+
+#: includes/options.php:3969
+msgid "Related Section Title"
+msgstr ""
+
+#: includes/options.php:3989
+msgid "Related Each Posts"
+msgstr ""
+
+#: includes/options.php:4009
+msgid "Related Each Posts Hover"
+msgstr ""
+
+#: includes/options.php:4029
+msgid "Related Posts Title"
+msgstr ""
+
+#: includes/options.php:4049
+msgid "Related Posts Meta"
+msgstr ""
+
+#: includes/options.php:4069
+msgid "Related Posts Meta links"
+msgstr ""
+
+#: includes/options.php:4089
+msgid "Comments Title"
+msgstr ""
+
+#: includes/options.php:4125 includes/options.php:4631
+msgid "Settings"
+msgstr ""
+
+#: includes/options.php:4132
+msgid "Slug"
+msgstr ""
+
+#: includes/options.php:4139
+msgid "Archive title"
+msgstr ""
+
+#: includes/options.php:4146
+msgid "Category slug"
+msgstr ""
+
+#: includes/options.php:4153
+msgid "Category title"
+msgstr ""
+
+#: includes/options.php:4160
+msgid "Tags slug"
+msgstr ""
+
+#: includes/options.php:4167
+msgid "Tags title"
+msgstr ""
+
+#: includes/options.php:4187
+msgid "Columns"
+msgstr ""
+
+#: includes/options.php:4229 includes/options.php:4513
+#: includes/options.php:4561 includes/options.php:4614
+#: includes/options.php:5124 includes/options.php:5172
+msgid "Primary Sidebar"
+msgstr ""
+
+#: includes/options.php:4254
+msgid " Single Settings"
+msgstr ""
+
+#: includes/options.php:4259
+msgid "Single pages meta"
+msgstr ""
+
+#: includes/options.php:4273
+msgid "Related section title"
+msgstr ""
+
+#: includes/options.php:4300
+msgid "Styling"
+msgstr ""
+
+#: includes/options.php:4310
+msgid "Overall each posts"
+msgstr ""
+
+#: includes/options.php:4330
+msgid "Overall posts :Hover"
+msgstr ""
+
+#: includes/options.php:4350
+msgid "Posts image"
+msgstr ""
+
+#: includes/options.php:4370
+msgid "Posts image :Hover"
+msgstr ""
+
+#: includes/options.php:4390
+msgid "Posts title"
+msgstr ""
+
+#: includes/options.php:4410
+msgid "Posts title :Hover"
+msgstr ""
+
+#: includes/options.php:4430
+msgid "Posts meta"
+msgstr ""
+
+#: includes/options.php:4457 includes/options.php:4462
+msgid "Add post type"
+msgstr ""
+
+#: includes/options.php:4468
+msgid "Name"
+msgstr ""
+
+#: includes/options.php:4478
+msgid ""
+"After adding new post type(s), go to Settings > Permalinks and save "
+"Permalinks once for fixing error 404 on new post type pages."
+msgstr ""
+
+#: includes/options.php:4487
+msgid "BBPress"
+msgstr ""
+
+#: includes/options.php:4535
+msgid "DWQA"
+msgstr ""
+
+#: includes/options.php:4583
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/options.php:4588
+msgid "Woocommerce Settings"
+msgstr ""
+
+#: includes/options.php:4609
+msgid "Default layout for all WooCommerce pages"
+msgstr ""
+
+#: includes/options.php:4636
+msgid "Shop Columns"
+msgstr ""
+
+#: includes/options.php:4649
+msgid "Products Per Page"
+msgstr ""
+
+#: includes/options.php:4655
+msgid "Related Products"
+msgstr ""
+
+#: includes/options.php:4674
+msgid "Woocommerce Styles"
+msgstr ""
+
+#: includes/options.php:4684
+msgid "Products"
+msgstr ""
+
+#: includes/options.php:4704
+msgid "Products :Hover"
+msgstr ""
+
+#: includes/options.php:4744
+msgid "Titles"
+msgstr ""
+
+#: includes/options.php:4764 includes/options.php:4970
+msgid "Rating Stars"
+msgstr ""
+
+#: includes/options.php:4784
+msgid "On Sale Badge"
+msgstr ""
+
+#: includes/options.php:4804 includes/options.php:4990
+msgid "Price"
+msgstr ""
+
+#: includes/options.php:4824
+msgid "Add to Cart Button"
+msgstr ""
+
+#: includes/options.php:4844
+msgid "Add to Cart :Hover"
+msgstr ""
+
+#: includes/options.php:4864
+msgid "View cart button"
+msgstr ""
+
+#: includes/options.php:4884
+msgid "View cart button :Hover"
+msgstr ""
+
+#: includes/options.php:4904
+msgid "Result Count"
+msgstr ""
+
+#: includes/options.php:4925
+msgid "Product Single Page"
+msgstr ""
+
+#: includes/options.php:5010
+msgid "Out of stock"
+msgstr ""
+
+#: includes/options.php:5030
+msgid "Overall Meta"
+msgstr ""
+
+#: includes/options.php:5050
+msgid "Meta links"
+msgstr ""
+
+#: includes/options.php:5070
+msgid "Meta links :Hover"
+msgstr ""
+
+#: includes/options.php:5098
+msgid "Buddy Press"
+msgstr ""
+
+#: includes/options.php:5146
+msgid "Easy Digital Downloads"
+msgstr ""
+
+#: includes/options.php:5193
+msgid "Customize Widgets Styles"
+msgstr ""
+
+#: includes/options.php:5199
+msgid "Backup / Reset"
+msgstr ""
+
+#: includes/options.php:5205
+msgid "You can save your current options. Download a Backup and Import."
+msgstr ""
+
+#: includes/options.php:5323
+msgid ""
+"Creating space around an element, INSIDE of any defined margins and "
+"borders. Can set using px, %, em, ..."
+msgstr ""
+
+#: includes/options.php:5324
+msgid ""
+"Creating space around an element, OUTSIDE of any defined borders. Can "
+"set using px, %, em, auto, ..."
+msgstr ""
+
+#: includes/options.php:5325
+msgid ""
+"Lines around element, e.g. 2px or manually set with this four positions "
+"respectively: <br />Top Right Bottom Left <br/><br/>e.g. 2px 2px 2px 2px"
+msgstr ""
+
+#: includes/options.php:5326
+msgid ""
+"Generate the arc for lines around element, e.g. 10px or manually set "
+"with this four positions respectively: <br />Top Right Bottom Left <br/"
+"><br/>e.g. 10px 10px 10px 10px"
+msgstr ""
+
+#: includes/options.php:5327
+msgid "Default option"
+msgstr ""
+
+#: includes/options.php:5359
+msgid "Element"
+msgstr ""
+
+#: includes/options.php:5363
+msgid "Menu"
+msgstr ""
+
+#: includes/options.php:5365
+msgid "Icon & Text"
+msgstr ""
+
+#: includes/options.php:5366
+msgid "Search"
+msgstr ""
+
+#: includes/options.php:5367 includes/options.php:5796
+msgid "Line"
+msgstr ""
+
+#: includes/options.php:5368 includes/options.php:5826
+msgid "Button"
+msgstr ""
+
+#: includes/options.php:5370
+msgid "Shopping cart"
+msgstr ""
+
+#: includes/options.php:5371
+msgid "WPML Selector"
+msgstr ""
+
+#: includes/options.php:5372
+msgid "Offcanvas Sidebar"
+msgstr ""
+
+#: includes/options.php:5373
+msgid "Dropdown Content"
+msgstr ""
+
+#: includes/options.php:5374
+msgid "User GrAvatar"
+msgstr ""
+
+#: includes/options.php:5394 includes/options.php:5492
+msgid "Width"
+msgstr ""
+
+#: includes/options.php:5403
+msgid "For adding or changing menu items go to Appearance > Menus"
+msgstr ""
+
+#: includes/options.php:5408
+msgid "Menu Styling"
+msgstr ""
+
+#: includes/options.php:5414
+msgid "Location"
+msgstr ""
+
+#: includes/options.php:5433
+msgid "Menu type"
+msgstr ""
+
+#: includes/options.php:5434
+msgid "Scroll down to see menu styling"
+msgstr ""
+
+#: includes/options.php:5437
+msgid "Offcanvas ( Left )"
+msgstr ""
+
+#: includes/options.php:5438
+msgid "Offcanvas ( Right )"
+msgstr ""
+
+#: includes/options.php:5439
+msgid "Fullscreen"
+msgstr ""
+
+#: includes/options.php:5440 includes/options.php:5552
+msgid "Dropdown"
+msgstr ""
+
+#: includes/options.php:5441
+msgid "Sliding Menu ( Left )"
+msgstr ""
+
+#: includes/options.php:5442
+msgid "Sliding Menu ( Right )"
+msgstr ""
+
+#: includes/options.php:5443
+msgid "Vertical Navigation ( Left )"
+msgstr ""
+
+#: includes/options.php:5444
+msgid "Vertical Navigation ( Right )"
+msgstr ""
+
+#: includes/options.php:5475
+msgid ""
+"For adding or styling social icons go to Customize > Header > Social "
+"icons"
+msgstr ""
+
+#: includes/options.php:5507 includes/options.php:5520
+msgid "Text"
+msgstr ""
+
+#: includes/options.php:5508
+msgid "Instead current year insert this variable %year%"
+msgstr ""
+
+#: includes/options.php:5548
+msgid "Search type"
+msgstr ""
+
+#: includes/options.php:5550 includes/options.php:5551
+msgid "Form"
+msgstr ""
+
+#: includes/options.php:5553
+msgid "Full Screen"
+msgstr ""
+
+#: includes/options.php:5554
+msgid "Full Row"
+msgstr ""
+
+#: includes/options.php:5561
+msgid "Ajax Search ?"
+msgstr ""
+
+#: includes/options.php:5567
+msgid "Ajax Post type(s)"
+msgstr ""
+
+#: includes/options.php:5574
+msgid "Placeholder / Title"
+msgstr ""
+
+#: includes/options.php:5580
+msgid "Search Title"
+msgstr ""
+
+#: includes/options.php:5590
+msgid "Form width"
+msgstr ""
+
+#: includes/options.php:5597
+msgid "Search Input"
+msgstr ""
+
+#: includes/options.php:5607
+msgid "Search Container"
+msgstr ""
+
+#: includes/options.php:5617
+msgid "Ajax posts container"
+msgstr ""
+
+#: includes/options.php:5633
+msgid "Search Icon"
+msgstr ""
+
+#: includes/options.php:5643
+msgid "Search Inner Icon"
+msgstr ""
+
+#: includes/options.php:5655
+msgid ""
+"For adding or changing widgets inside offcanvas area, go to Appearance > "
+"Widgets > Offcanvas"
+msgstr ""
+
+#: includes/options.php:5661
+msgid "Direction"
+msgstr ""
+
+#: includes/options.php:5735 includes/options.php:5784
+#: includes/tgm.php:1611
+msgid "Type"
+msgstr ""
+
+#: includes/options.php:5745
+msgid "Count"
+msgstr ""
+
+#: includes/options.php:5772
+msgid "Content"
+msgstr ""
+
+#: includes/options.php:5786
+msgid "Full Height"
+msgstr ""
+
+#: includes/options.php:5787
+msgid "Default Height"
+msgstr ""
+
+#: includes/options.php:5788
+msgid "Slash"
+msgstr ""
+
+#: includes/options.php:5789
+msgid "Horizontal"
+msgstr ""
+
+#: includes/options.php:5808
+msgid "If you want fully customized button(s), please check Help Center"
+msgstr ""
+
+#: includes/options.php:5836
+msgid "Button Hover"
+msgstr ""
+
+#: includes/options.php:5849 includes/options.php:5852
+msgid "Translated Name"
+msgstr ""
+
+#: includes/options.php:5850
+msgid "Language Code"
+msgstr ""
+
+#: includes/options.php:5851
+msgid "Native Name"
+msgstr ""
+
+#: includes/options.php:5853
+msgid "No Title"
+msgstr ""
+
+#: includes/options.php:5860
+msgid "Flag ?"
+msgstr ""
+
+#: includes/options.php:5866
+msgid "Inner Color"
+msgstr ""
+
+#: includes/options.php:5872
+msgid "Background"
+msgstr ""
+
+#: includes/options.php:5880
+msgid ""
+"You can add any element via page builder from Dashboard > Header Elements"
+msgstr ""
+
+#: includes/options.php:5896
+msgid "Any codes, html, text, shortcodes are allowed"
+msgstr ""
+
+#: includes/options.php:5902
+msgid "Custom text or code"
+msgstr ""
+
+#: includes/options.php:5910
+msgid "Size"
+msgstr ""
+
+#: includes/options.php:5917
+msgid "Avatar"
+msgstr ""
+
+#: includes/options.php:5936
+msgid "Vertical ?"
+msgstr ""
+
+#: includes/options.php:5942
+msgid "Visibility on Sticky"
+msgstr ""
+
+#: includes/options.php:5943
+msgid "You can enable sticky mode from Customize > Header > Sticky Header"
+msgstr ""
+
+#: includes/options.php:5946
+msgid "Show on Sticky ?"
+msgstr ""
+
+#: includes/options.php:5947
+msgid "Hide on Sticky ?"
+msgstr ""
+
+#: includes/options.php:5954
+msgid "Center ?"
+msgstr ""
+
+#: includes/options.php:5960
+msgid "Hide on mobile ?"
+msgstr ""
+
+#: includes/options.php:5966
+msgid "Hide on tablet ?"
+msgstr ""
+
+#: includes/options.php:5985
+msgid "Margin"
+msgstr ""
+
+#: includes/options.php:6023 includes/options.php:6047
+msgid "Off"
+msgstr ""
+
+#: includes/options.php:6027
+msgid "Custom Sticky"
+msgstr ""
+
+#: includes/options.php:6033
+msgid "Smart Sticky ?"
+msgstr ""
+
+#: includes/options.php:6045
+msgid "Position ?"
+msgstr ""
+
+#: includes/options.php:6059
+msgid "Row type"
+msgstr ""
+
+#: includes/options.php:6061
+msgid "Create new row"
+msgstr ""
+
+#: includes/options.php:6062
+msgid "Use custom page as row"
+msgstr ""
+
+#: includes/options.php:6068
+msgid "Select page as row"
+msgstr ""
+
+#: includes/options.php:6079
+msgid "Start showing at"
+msgstr ""
+
+#: includes/options.php:6082
+msgid "Landscape Tablet"
+msgstr ""
+
+#: includes/options.php:6083
+msgid "Portrait Tablet"
+msgstr ""
+
+#: includes/options.php:6090
+msgid "Sticky ?"
+msgstr ""
+
+#: includes/options.php:6093
+msgid "Sticky"
+msgstr ""
+
+#: includes/options.php:6094
+msgid "Smart Sticky"
+msgstr ""
+
+#: includes/options.php:6138
+msgid "Row Container"
+msgstr ""
+
+#: includes/options.php:6159
+msgid "Row Inner"
+msgstr ""
+
+#: includes/options.php:6210
+msgid "Menu Styles of this Row"
+msgstr ""
+
+#: includes/options.php:6216
+msgid "Menu Container"
+msgstr ""
+
+#: includes/options.php:6237
+msgid "Each Menu Parent"
+msgstr ""
+
+#: includes/options.php:6258
+msgid "Menu Links"
+msgstr ""
+
+#: includes/options.php:6279
+msgid "Menu Links :Hover"
+msgstr ""
+
+#: includes/options.php:6300
+msgid "Hover Shape"
+msgstr ""
+
+#: includes/options.php:6321
+msgid "Menu Indicator"
+msgstr ""
+
+#: includes/options.php:6342
+msgid "Menu Separator"
+msgstr ""
+
+#: includes/options.php:6363
+msgid "Dropdown Menu"
+msgstr ""
+
+#: includes/options.php:6384
+msgid "Dropdown Links"
+msgstr ""
+
+#: includes/options.php:6405
+msgid "Dropdown Links :Hover"
+msgstr ""
+
+#: includes/options.php:6426
+msgid "Dropdown Menu Indicator"
+msgstr ""
+
+#: includes/options.php:6447
+msgid "3rd Level Dropdown"
+msgstr ""
+
+#: includes/options.php:6468
+msgid "Megamenu Inner Dropdowns"
+msgstr ""
+
+#: includes/options.php:6545
+msgid "No sliders found, Please create new from Revolution Slider menu"
+msgstr ""
+
+#: includes/options.php:6548
+msgid "Sorry! Revolution Slider is not installed or activated"
+msgstr ""
+
+#: includes/tgm.php:84
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/tgm.php:85
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/tgm.php:87
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/tgm.php:89
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/tgm.php:90
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/tgm.php:93
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: includes/tgm.php:99
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: includes/tgm.php:105
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: includes/tgm.php:111
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: includes/tgm.php:117
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: includes/tgm.php:123
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: includes/tgm.php:128
+msgid "Begin installing plugin"
+msgstr ""
+
+#: includes/tgm.php:133
+msgid "Begin updating plugin"
+msgstr ""
+
+#: includes/tgm.php:138
+msgid "Begin activating plugin"
+msgstr ""
+
+#: includes/tgm.php:142
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/tgm.php:143 includes/tgm.php:453 includes/tgm.php:1602
+#: includes/tgm.php:2312
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/tgm.php:144 includes/tgm.php:2069
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/tgm.php:145 includes/tgm.php:1950
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/tgm.php:147
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/tgm.php:149
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/tgm.php:151
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/tgm.php:152
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/tgm.php:153
+msgid ""
+"There are one or more required or recommended plugins to install, update "
+"or activate."
+msgstr ""
+
+#: includes/tgm.php:154
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/tgm.php:238
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/tgm.php:239
+msgid "Update Required"
+msgstr ""
+
+#: includes/tgm.php:537
+msgid ""
+"The remote plugin package does not contain a folder with the desired "
+"slug and renaming did not work."
+msgstr ""
+
+#: includes/tgm.php:537 includes/tgm.php:540
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/tgm.php:540
+msgid ""
+"The remote plugin package consists of more than one file, but the files "
+"are not packaged in a folder."
+msgstr ""
+
+#: includes/tgm.php:1418
+msgid "Required"
+msgstr ""
+
+#: includes/tgm.php:1421
+msgid "Recommended"
+msgstr ""
+
+#: includes/tgm.php:1429
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/tgm.php:1432
+msgid "External Source"
+msgstr ""
+
+#: includes/tgm.php:1435
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/tgm.php:1444
+msgid "Not Installed"
+msgstr ""
+
+#: includes/tgm.php:1448
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/tgm.php:1450
+msgid "Active"
+msgstr ""
+
+#: includes/tgm.php:1456
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/tgm.php:1459
+msgid "Requires Update"
+msgstr ""
+
+#: includes/tgm.php:1462
+msgid "Update recommended"
+msgstr ""
+
+#: includes/tgm.php:1506
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/tgm.php:1510
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/tgm.php:1514
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/tgm.php:1568
+msgid "Installed version:"
+msgstr ""
+
+#: includes/tgm.php:1576
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/tgm.php:1588
+msgid "Available version:"
+msgstr ""
+
+#: includes/tgm.php:1602
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/tgm.php:1609
+msgid "Plugin"
+msgstr ""
+
+#: includes/tgm.php:1610
+msgid "Source"
+msgstr ""
+
+#: includes/tgm.php:1615
+msgid "Version"
+msgstr ""
+
+#: includes/tgm.php:1616
+msgid "Status"
+msgstr ""
+
+#: includes/tgm.php:1641
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/tgm.php:1646
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/tgm.php:1652
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/tgm.php:1696
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/tgm.php:1715
+msgid "Install"
+msgstr ""
+
+#: includes/tgm.php:1721
+msgid "Update"
+msgstr ""
+
+#: includes/tgm.php:1724
+msgid "Activate"
+msgstr ""
+
+#: includes/tgm.php:1755
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/tgm.php:1757
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/tgm.php:1798
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/tgm.php:1800
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/tgm.php:1906
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/tgm.php:1932
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/tgm.php:2068
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/tgm.php:2252
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/tgm.php:2255
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/tgm.php:2257
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/tgm.php:2261
+msgid ""
+"The installation and activation process is starting. This process may "
+"take a while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/tgm.php:2263
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/tgm.php:2263 includes/tgm.php:2271
+msgid "Show Details"
+msgstr ""
+
+#: includes/tgm.php:2263 includes/tgm.php:2271
+msgid "Hide Details"
+msgstr ""
+
+#: includes/tgm.php:2264
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/tgm.php:2266
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/tgm.php:2269
+msgid ""
+"The installation process is starting. This process may take a while on "
+"some hosts, so please be patient."
+msgstr ""
+
+#: includes/tgm.php:2271
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/tgm.php:2272
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/tgm.php:2274
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""

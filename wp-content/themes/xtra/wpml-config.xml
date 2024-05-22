@@ -1,0 +1,20 @@
+<wpml-config>
+	
+	<custom-fields>
+		<custom-field translate="1">codevz_page_meta</custom-field>
+		<custom-field translate="1">codevz_single_page_css</custom-field>
+		<custom-field translate="1">cz_sc_styles</custom-field>
+		<custom-field translate="1">cz_sc_styles_tablet</custom-field>
+		<custom-field translate="1">cz_sc_styles_mobile</custom-field>
+	</custom-fields>
+
+	<custom-types>
+		<custom-type translate="1">portfolio</custom-type>
+	</custom-types>
+
+	<taxonomies>
+		<taxonomy translate="1">portfolio_cat</taxonomy>
+		<taxonomy translate="1">portfolio_tags</taxonomy>
+	</taxonomies>
+	
+</wpml-config>

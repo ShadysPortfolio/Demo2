@@ -1,0 +1,33 @@
+Version: 1.1.0
+    Added:
+        - Top 5 Visited Pages for Dashboard Widget
+        - Popup alignment for Hotspot shortcode
+        - Attribute "playsinline" for video on iOS
+        - QuickCal plugin compatibility
+        - Elementor 3.16.0 compatibility (flexbox containers support)
+        - Autoupdate for "QW Extension" addon
+        - AI Helper: width and height parameters for Stable Diffusion
+        - AI Helper: new API support from Stability AI for image generation
+        - AI Helper: "Negative Prompt" and "Safety Checker" options to exclude non-desirable images
+        - AI Helper: Chat History shortcode
+        - AI Helper: "Upscale image" option for the Extended layout of Image Generator shortcode
+        - AI Helper: "System Prompt" parameter to add context for Image Generator shortcode
+        - AI Helper: рarameters "System Prompt", "Max. Tokens" and "Temperature" for Text Generator and AI Chat shortcodes
+        - AI Helper: an option to enable/disable prompt auto-translation into English for Image Generator shortcode
+    Fixed:
+        - Loop for video autoplay
+        - Scroll for CPT Portfolio archive page on mobiles
+        - Styles for WordPress 6.3 compatibility
+        - Booked appointments fix (2.4.4 version)
+        - Fly positioning on mobiles
+        - Tabs style for Switcher shortcode
+        - Icons for Х.com (Twitter) and TikTok
+        - Responsive styles for WooCommerce Extended Products
+        - Woocommerce product meta data for Blogger shortcode
+        - Legacy Widget styles in Widgets Editor
+        - Iframe resize for RevSlider
+    Updated:
+        - GSAP JavaScript animation library to 3.12.2
+        - The Events Calendar styles
+
+Release: v.1.0.0 (2.21.0)
